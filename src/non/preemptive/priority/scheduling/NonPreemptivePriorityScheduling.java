@@ -2,13 +2,7 @@ package non.preemptive.priority.scheduling;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-/**
- * ده كلاس اللي فيه الفنكشنزز
- *
- * @version 1.0
- * @since 2015-05-4
- * @author r <a href="mailto://fcih.mohammed@gmail.com">Mohamed al-Rifay</a>
- */
+
 public class NonPreemptivePriorityScheduling {
 
     /**
